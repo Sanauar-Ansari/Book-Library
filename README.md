@@ -1,5 +1,5 @@
 # Book-Library
-This is a Inventory management of books.
-I have inpmlimented features like adding new books.
-For security purpose, also Authentication required by users.
+# User Authentication and Authorization:
+User Registration and Login: Allow users to sign up and log in to access the library.
+whithout Authentication any user can not access the library.
 
